@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Android5" >
 
+        <activity android:name=".MainActivity">
+
+        </activity>
         <activity
             android:name=".SplashActivity"
             android:exported="true"
